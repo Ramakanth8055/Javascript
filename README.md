@@ -1,0 +1,2 @@
+# Javascript
+Javascript variables description
